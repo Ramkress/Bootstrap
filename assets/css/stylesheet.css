@@ -1,66 +1,55 @@
-
-.box1{
-    background-color: red;
-    height: 80px;
-    margin: 10px 0 10px 0;
+*{
+    margin: 0;
+    padding: 0;
 }
-.box2{
-    background-color: rgb(29, 209, 89);
-    height: 80px;
-    margin: 10px 0 10px 0;
+.navbaralt ul{
+    margin-left: 500px;
 }
-.box3{
-    background-color: rgb(48, 22, 199);
-    height: 150px;
-    margin: 10px 0 10px 0;
+.headcolor{
+    background-color: #b7c1c0;
 }
-.box4{
-    background-color: rgb(243, 38, 164);
-    height: 80px;
-    margin: 10px 0 10px 0;
+.logo{
+    width: 80px;
 }
-.box5{
-    background-color: rgb(150, 175, 7);
-    height: 80px;
-    margin: 10px 0 10px 0;
+.backcolor{
+    padding: 100px 0 100px 0;
 }
-.box6{
-    background-color: rgb(15, 245, 253);
-    height: 80px;
-    margin: 10px 0 10px 0;
+.imgsize{
+    width: 300px;
 }
-.box7{
-    background-color: rgb(59, 35, 104);
-    height: 80px;
-    margin: 10px 0 10px 0;
+.backimg{
+    background-image: url(../image/uk-feature-epic--in-every-way-378413976.webp);
 }
-.box8{
-    background-color: rgb(230, 14, 140);
-    height: 80px;
-    margin: 10px 0 10px 0;
+.white{
+    color: white;
 }
-.box9{
-    background-color: rgb(9, 75, 31);
-    height: 40px;
-    margin: 10px 0 10px 0;
+.tp{
+    padding-top: 50px;
 }
-.box10{
-    background-color: rgb(159, 109, 240);
-    height: 40px;
-    margin: 10px 0 10px 0;
+.tb{
+    padding-bottom: 50px;
 }
-.box11{
-    background-color: rgb(223, 184, 12);
-    height: 40px;
-    margin: 10px 0 10px 0;
+.pad{
+    margin-bottom: 15px;
 }
-.box12{
-    background-color: rgb(214, 10, 10);
-    height: 40px;
-    margin: 10px 0 10px 0;
+.green{
+    color: green;
 }
-.box13{
-    background-color: rgb(29, 209, 89);
-    height: 20px;
-    margin: 10px 0 10px 0;
+.padd{
+    padding: 60px 0 60px 0;
+}
+.align{
+    text-align: center;
+}
+.black{
+background-color: #b7c1c0;
+padding: 30px 0 30px 0;
+}
+.copy{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.small{
+    font-size: 10px;
 }
